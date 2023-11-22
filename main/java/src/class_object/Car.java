@@ -48,7 +48,7 @@ private double price;
 
   @Override
   public String toString() {
-    return "Car{" +
+    return "Wagon{" +
         "craModelName='" + craModelName + '\'' +
         ", colorName='" + colorName + '\'' +
         ", carId=" + carId +
